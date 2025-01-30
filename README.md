@@ -1,2 +1,9 @@
 # Git-ting-Started
-Create a new GitHub repository to store and manage project files, code, documentation, and related resources. The repository should be set up with an appropriate structure and initial configuration, making it ready for collaboration and version control.
+This is a Flutter mobile application.
+
+# Links
+- [GitHub Repository](https://github.com/FIJET007/Git-ting-Started) 
+- [HNG Flutter Developers](https://hng.tech/hire/flutter-developers)
+
+## Getting Started
+Instructions for cloning, building, and running the mobile app will be provided here.
